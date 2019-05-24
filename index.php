@@ -1,5 +1,6 @@
     <?php include 'includes/header.php'; ?>
 
+
 		<div class="main_content container">
 				<div class="mian_slider clearfix"><!--Start Mian slider -->
 
