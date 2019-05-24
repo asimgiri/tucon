@@ -5,7 +5,7 @@
     <div class="about">
         <div class="row">
           <div class="col-md-8">
-            <h3>General Federation of Nepalese Trade Unions (TUCON) </h3>
+            <h3>Trade Union Committee Of Nepal (TUCON) </h3>
 
             <p class="text-justify">General Federation of Nepalese Trade Unions (TUCON) was established on 20th July 1989. As there was no union right in Nepal; TUCON was launched underground.</p>
 
