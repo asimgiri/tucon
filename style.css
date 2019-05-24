@@ -1142,7 +1142,7 @@ position: absolute;
   font-size: 15px;
   font-weight: normal;
   line-height: 170%;
-  text-align: center;
+  text-align: justify;
 }
 article.hz_post .hz_thumb_post{
   height: auto;
@@ -1409,6 +1409,7 @@ article.hz_post .quote_post .hz_thumb_post, article.hz_post .link_post .hz_thumb
 .list_layout .hz_post .hz_main_post_content .hz_content{
   margin: 15px 0;
 }
+
 .list_layout .hz_post .hz_bottom_post{
   border: none;
   padding: 0;
@@ -3042,4 +3043,16 @@ body img{
 
 .spacing{
   padding: 80px 0;
+}
+
+.modal-content{
+  top: 50px;
+}
+
+.modal-body{
+  padding: 25px !important;
+}
+
+.form-horizontal .radio, .form-horizontal .checkbox{
+  margin: 0 24px;
 }
